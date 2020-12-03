@@ -1,7 +1,7 @@
 
 ### Hi, I'm Giulia 👋
 
-<img align='right' src="image.jpg" width="280">
+<img align='right' src="image.jpg" width="240">
 <p>
     Master student in Computer Engineering at <a href="https://www.furg.br/">Universidade Federal de Rio Grande</a> :books:
     </br>
