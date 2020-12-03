@@ -1,7 +1,7 @@
 
 ### Hi, I'm Giulia 👋
 
-<img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="230">
+<img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="280">
 <p>
     Master student in Computer Engineering at <a href="https://www.furg.br/">Universidade Federal de Rio Grande</a> :books:
     </br>
