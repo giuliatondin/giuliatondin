@@ -3,7 +3,7 @@
 
 <img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="280">
 <p>
-    Master student in Computer Engineering at <a href="https://www.furg.br/">Universidade Federal de Rio Grande</a> :books:
+    Master student in Computer Engineering at <a href="https://www.furg.br/">Universidade Federal do Rio Grande</a> :books:
     </br>
     Bachelor degree in Computer Information Systems :mortar_board:
     </br>
