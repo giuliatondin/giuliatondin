@@ -26,8 +26,8 @@ const giulia = {
   code: [HTML5, CSS3, Sass, JavaScript, TypeScript, C#, NetLogo],
   tools: [Angular, Vue, Node, Bootstrap, Storybook, Styled-Components, Git],
   mainProjects: {
-    masterThesis: "Serious Game combined with a Brain-computer Interface to improve the attention of children with ADHD",
-    covidDashboard: "Dashboard consuming Covid-19 Brazil API with Angular 9"
+    masterThesis: "Use of Serious Games and Neurofeedback in the treatment of people with Attention Deficit Hyperactivity Disorder",
+    javascriptChallenge: "30 days of JavaScript"
   }
 }
 ```
