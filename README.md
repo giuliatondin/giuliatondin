@@ -23,8 +23,8 @@
 ```javascript
 const giulia = {
   pronouns: "she" | "her",
-  code: [HTML5, CSS3, Sass, JavaScript, TypeScript, C#, NetLogo],
-  tools: [Angular, Vue, Node, Bootstrap, Storybook, Styled-Components, Git],
+  code: [HTML5, CSS3, Sass, JavaScript, C#, NetLogo],
+  tools: [Angular, Vue, Node, Bootstrap, Git],
   mainProjects: {
     masterThesis: "Use of Serious Games and Neurofeedback in the treatment of people with Attention Deficit Hyperactivity Disorder",
     javascriptChallenge: "30 days of JavaScript"
