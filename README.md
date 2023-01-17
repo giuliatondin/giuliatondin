@@ -3,7 +3,9 @@
 
 <img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="280">
 <p>
-    Master student in Computer Engineering at <a href="https://www.furg.br/">Universidade Federal do Rio Grande</a> :books:
+    Front-end developer at Juntos Somos Mais 🧙‍♀️
+    </br>
+    Master degree in Computer Engineering at <a href="https://www.furg.br/">Universidade Federal do Rio Grande</a> :books:
     </br>
     Bachelor degree in Computer Information Systems :mortar_board:
     </br>
@@ -22,16 +24,10 @@
 
 ```javascript
 const giulia = {
-  pronouns: "she" | "her",
-  code: [HTML5, CSS3, Sass, JavaScript, C#, NetLogo],
-  tools: [Angular, Vue, Node, Bootstrap, Git],
-  mainProjects: {
-    masterThesis: "Use of Serious Games and Neurofeedback in the treatment of people with Attention Deficit Hyperactivity Disorder",
-    javascriptChallenge: "30 days of JavaScript"
-  }
+  pronouns: "she" || "her",
+  code: [HTML5, CSS3, Sass, JavaScript, TypeScript, Unit Tests],
+  tools: [React, Vue, Node, Git],
 }
 ```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuliatondin&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
