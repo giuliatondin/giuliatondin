@@ -20,7 +20,7 @@
 const giulia = {
   pronouns: "she" || "her",
   code: ["HTML5", "CSS3", "SCSS", "TypeScript", "APIs/Rest"],
-  tools: ["React", "Vue.js", "Node", "Git", "Jest", "Vitest", "Analytics"],
+  tools: ["React", "Vue.js", "Node", "Git", "Jest", "Vitest", "Analytics"]
 }
 ```
 
